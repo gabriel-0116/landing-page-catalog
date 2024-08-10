@@ -1,0 +1,13 @@
+#footer_items {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 1% 24px 8%;
+    align-items: center;
+}
+
+#copyright {
+    color: #1d1d1dad;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+
